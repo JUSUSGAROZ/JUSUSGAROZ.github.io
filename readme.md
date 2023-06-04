@@ -39,9 +39,7 @@ El logo es visiblemente la mezcla de un limón y una granada , limón por ser la
 
 **Medios**
 
-- Github:
-- Twitter
-- Instagram
+- Github:https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io 
 ![FOTO CHULA DE TODES](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/9047a88f-e915-4a10-91b2-23c00e2cf237)
 
 
@@ -90,7 +88,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado para todos los públic por lo general, el juego es breve, y su intención e esbozar una sonrisa, y eso lo puede hacer cualquiera
 
 
 
@@ -110,7 +108,7 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+A veces, cuando acabas el juego y te lo pasas, te devuelve al menú y no se cargs; en moviles se soluciona  pulsándo el botón de retroceso, en cambio en ordenadores no tiene solución aparente, puede ser o bien un error en la propia escena, en por el propio script o el 
 
 
 
