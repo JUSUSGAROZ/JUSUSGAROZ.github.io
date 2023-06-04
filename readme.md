@@ -114,7 +114,8 @@ Este  proyecto es interesante porque ...
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Aunque al principio el proyecto se me hizo muy complejo y tediosso, empecé a motivarme cada vez más y más. El progrma Hippani quizás no es el más actualizado ni el mejor, pero te ayuda a comprender mejor y entender a como programar.
+Me he divertido mucho y he sabido anteponerme a las dificultades y salir adelante. Me hubiera gustado mucho haber hecho más juegos y pantallas  de juego, pero el tiempo no juega a nuestro favor. 
 
 
 
