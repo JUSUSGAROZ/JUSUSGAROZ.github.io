@@ -22,6 +22,8 @@ A lo largo del juego, represento a compañeros que  he ido conociendo y como me 
 **Logotipo** : 
 
 El logo es visiblemente la mezcla de un limón y una granada , limón por ser la fruta que define o representa a Murcia y los murcianos por su obsesión por echarle limón a atodo, y la granada por la propia ciudad de Granada.
+
+
 ![28](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/187a2d21-18f0-41dd-ae1c-f3febbf29e35)
 
 
