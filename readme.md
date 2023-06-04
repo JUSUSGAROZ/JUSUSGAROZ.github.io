@@ -14,25 +14,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Jesús García Rodríguez
 
-**Resumen** : Este proyecto  trata de contar y narrar en tono de satira las aventuras 
+**Resumen** : Este proyecto  trata de contar y narrar en tono de satira y humor las aventuras e historias que me han ido aconteciendo desde que me cambié de universidad a Granada este último año. El juego contiene un breve teaser de como me fui práctiecemente volando de Murcia y acabé empezando una nueva vidad con nuevas metas y amistades, pero n o todo iba a ser tan idílico, primero debía lidiar con los problemas de gestión  de secretaría y adaptarme a un nuevo estilo de vida. 
+A lo largo del juego, represento a compañeros que  he ido conociendo y como me hacen preguntas para pasar las pruebas e ir avanzando hasta conseguir la TUI y poder ser alguien .  El proyecto trata de 4 niveles con preguntas aleatorias y  curiosas.  
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![29](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/485b39ed-d30d-4a7a-bdcb-80afdcf61f7b)
 
-(insertar imágenes a resolucion de 100px alto)
+El logo es visiblemente la mezcla de un limón y una granada , limón por ser la fruta que define o representa a Murcia y los murcianos por su obsesión por echarle limón a atodo, y la granada por la propia ciudad de Granada.
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Resolución:** 800x600px responsivo/o tamaño fijo
 
-**Tamaño proyecto:** 14MB 
+**Probado en:**   Google Chrome, Microsoft Edge, Safari
+
+**Tamaño proyecto:** 8 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 2 de Junio de 2023 
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**
 
 - Github:
 - Twitter
