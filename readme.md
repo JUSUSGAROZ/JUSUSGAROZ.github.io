@@ -43,8 +43,6 @@ El logo es visiblemente la mezcla de un limón y una granada , limón por ser la
 ![FOTO CHULA DE TODES](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/9047a88f-e915-4a10-91b2-23c00e2cf237)
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
