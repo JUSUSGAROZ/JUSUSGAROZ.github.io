@@ -71,6 +71,10 @@ El botón de creditos  te lleva a una escena donde se te cuenta quien ha estado 
 
 ![CREDITOS](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/3f220b58-e13a-40a9-bfda-f5a6cb80bbde)
 
+En el botónd de galerí , se puede ver algunos diseños realizados personalmnte para el juego, totalmente orifinales. 
+
+![GALERIA](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/e5773320-b0f5-4857-bc1b-a27073ac65cc)
+
 
 # 3. Metodología
 
