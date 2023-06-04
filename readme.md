@@ -67,8 +67,9 @@ irá desvariando más.
 
 ![NIVELES](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/1ec6d47f-714b-48b0-b5a0-c780fd0c8060)
 
+El botón de creditos  te lleva a una escena donde se te cuenta quien ha estado involucrado en el juego , para llevar a cabo su realización. 
 
-
+![CREDITOS](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/3f220b58-e13a-40a9-bfda-f5a6cb80bbde)
 
 
 # 3. Metodología
