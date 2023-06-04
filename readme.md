@@ -19,9 +19,10 @@ A lo largo del juego, represento a compañeros que  he ido conociendo y como me 
 
 **Estilo/género:**  Juego 
 
-**Logotipo** : ![29](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/485b39ed-d30d-4a7a-bdcb-80afdcf61f7b)
+**Logotipo** : 
 
 El logo es visiblemente la mezcla de un limón y una granada , limón por ser la fruta que define o representa a Murcia y los murcianos por su obsesión por echarle limón a atodo, y la granada por la propia ciudad de Granada.
+![29](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/ad1404fa-58cd-4e81-9545-53d141f21b29)
 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo
