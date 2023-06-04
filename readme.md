@@ -62,6 +62,11 @@ El botón con la grnada más colorida , cuyo sobrenombre es "Aventura", te lleva
 
 ![COMIC](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/18e1971b-e9ae-41ba-bfc8-261feaec466e)
 
+El juego en si se compone de 4 niveles rápidos y seguidos, cada nivel tendrá tres preguntas, donde cada vez todo se
+irá desvariando más. 
+
+![NIVELES](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/1ec6d47f-714b-48b0-b5a0-c780fd0c8060)
+
 
 
 
