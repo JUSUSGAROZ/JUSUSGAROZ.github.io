@@ -99,8 +99,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado para todos los públic por lo general, el juego es breve, y su intención e esbozar una sonrisa, y eso lo puede hacer cualquiera
-
+- Orientado para todos los públic.
 
 
 
