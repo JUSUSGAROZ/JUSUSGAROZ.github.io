@@ -33,7 +33,7 @@ El logo es visiblemente la mezcla de un limón y una granada , limón por ser la
 
 **Tamaño proyecto:** 8 MB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Licencia cedida y otorgada por la Universidad de Granada
 
 **Fecha** : 2 de Junio de 2023 
 
@@ -54,12 +54,13 @@ El logo es visiblemente la mezcla de un limón y una granada , limón por ser la
 
 
 ### 2.2. Esquema de navegación 
+Tras un breve teaser , el juego te lleva a la pantalla de Menú , donde destacan 4 botones en forma de granadas pero cada uno diseñado acorde a la temática y su función destacada. 
 
+![MENÚ](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/2520e8e5-1404-4b1d-8be6-b211d1093cee)
 
+El botón con la grnada más colorida , cuyo sobrenombre es "Aventura", te lleva direc a un enlace donde se cuenta la historia al juego en modo comic. Mi intención era ponerle audio y voces pero me fue imposible.
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
+![COMIC](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/18e1971b-e9ae-41ba-bfc8-261feaec466e)
 
 
 
