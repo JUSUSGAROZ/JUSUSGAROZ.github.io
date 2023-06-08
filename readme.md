@@ -125,11 +125,17 @@ Por último, en el apartado de crédictos  se muestra el creador del juego y dat
 - Instrucciones y ayuda al usuario : El juego es muy directo e intui, si no es una es otra, quiero decir, que es no es complejo, ya que esta no era su finalidad, si no más bien , que provoque una sonrisa en quien lo juegue y sea disfrutable para todos. 
 - Sonido:  Solo encontramos  un tipo de sonido para  el menú.
 - Menús y elementos de navegación :
-Botón Granada cristalina: Modo Aventura y Comic explicativo.
+
+Botón Granada cristalina: Modo Aventura y Comic explicativo
+
 Botón Granada normal: Play y comenzar a jug.
+
 Botón Granada diseño cine: Créditos .
+
 Botón Granada boceto: Galería con todos los diseños del juego.
+
 Botón ajustes: Modificar intensidad del audio y poder reiniciarlo o pararlo.
+
 Logotipo esquina superiopr izquierda: Animación cortit que muestra la fusión una naranja y un limón. 
 
 ### Etapa 3: Problemas identificados
