@@ -100,28 +100,37 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto surgió por la idea y la oportunidad de poder crear un juego de lo que quisieramos siempre y cuenado se pueda hacer. La libertad de diseño, tema , y creación artística me inspiró y proyectó unas ganas en mi  inverosimiles.  A partir de ahí, todo fue coonstancia y trabajo duro.  La idea del juego surgió apartir de querer  representar la locura que este año había significado para mi. 
+Cabe destacar que Jusus, es el mote y nombre del personaje protagonista, ya que cuando me matricule me cambiaron el nombre hasta 3 veces, siendo Jusus una de estas. A mi y a mi entorno nos hizo tanta gracia que decidí tomarlo como una broma y sacar provecho de ello.
 
 
 
 **Publico / audiencia**
 
-- Orientado para todos los públic.
+- Orientado para  mayores de 8 años
 
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
+- Juego.El juego comienza con un breve teaser animado, contándote una historia para entender un poco de que va a ir el juego. En el teaser aparecen lugares muy concretos, como son la facultad de BBAA de Granada y la catedral de Murcia. Luego, un mapa te señala la dirección Murcia-Granada en forma de viaje en caravana.  Una vez habiendo llegado a la escena a  la universidad de Granada, da co mienzo el menú, donde se muestran 4 botones de formas llamtivas en forma de granada, donde cada uno de ellos te llevará al lugar indicado.
+El botón de play, dará comienzo al juego en sí, constando este de 4 pantallas, donde en cada una de ellas se harán 3 preguntas como donde tendrás que respoinderlas bien para poder avanzar, en el caso de fallar, repetirás desde el principio del nivel en el que estés. 
+Cada respuesta afirmativa tendrá su animación concreta al igual que la negativa. Una vez superes todas las preguntas, te saltará l a escena final, donde se deja a la imaginación de una segunda parte. 
+Al volver al  menú principal, podremos ver un breve comic en el botón de aventura,  contandonos la historia predecesora al juego en si, donde se te cuenta que Jusus, al llegar a la facultad, provocó que saltaran las alarmas, y el monstruo que custodiaba esos lares fue a recibirlo de forma espeluznante, llegando a traveés de unpasillo lleno de niebla. El monstruo trabajabba en la administración, y te exigía que para llegar a poder ser alguien, debías conseguir la TUI y matricularte, matricularte se basaba en pagar; pero para la TUI debía vencer a los 4 guerreros más temibles de todos los tiempo y superar sus incoherentes preguntas. 
+Y así, y solo así, podrá conseguir su llave y ser algo en este nuevo sitio. 
+Por último, en el apartado de crédictos  se muestra el creador del juego y datos del mismo. A su vez en la galería podemos ver los diseños orginales y dibujos usados, y en los ajustes podremos modificar el audio
+- Video : El video muestra escenas del primer día de universidad que hice cuandop vine por primera vez.
+- Instrucciones y ayuda al usuario : El juego es muy directo e intui, si no es una es otra, quiero decir, que es no es complejo, ya que esta no era su finalidad, si no más bien , que provoque una sonrisa en quien lo juegue y sea disfrutable para todos. 
+- Sonido:  Solo encontramos  un tipo de sonido para  el menú.
+- Menús y elementos de navegación :
+Botón Granada cristalina: Modo Aventura y Comic explicativo.
+Botón Granada normal: Play y comenzar a jug.
+Botón Granada diseño cine: Créditos .
+Botón Granada boceto: Galería con todos los diseños del juego.
+Botón ajustes: Modificar intensidad del audio y poder reiniciarlo o pararlo.
+Logotipo esquina superiopr izquierda: Animación cortit que muestra la fusión una naranja y un limón. 
 
 ### Etapa 3: Problemas identificados
 
@@ -148,18 +157,24 @@ Me he divertido mucho y he sabido anteponerme a las dificultades y salir adelant
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:
+
+Lupinthe64th. (2011, 14 noviembre). The Legend of Zelda: Skyward Sword Music - Main Menu Theme [Vídeo]. YouTube. https://www.youtube.com/watch?v=GIqUkjt69dA   
+
+* Imágenes: Jesús García Rodríguez 
+* Tipografía: Impact
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate              
+- Adobe Premiere 
+- Adobe Photoshop
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![image](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/739516cd-2871-4a4b-a8a5-86233a6bf588)
+
 
 https://creativecommons.org/licenses/?lang=es
 
