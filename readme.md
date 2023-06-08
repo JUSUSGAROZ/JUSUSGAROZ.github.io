@@ -91,12 +91,9 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
 
 **Motivación de la propuesta** 
 
