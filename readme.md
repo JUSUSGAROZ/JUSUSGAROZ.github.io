@@ -47,9 +47,15 @@ El logo es visiblemente la mezcla de un limón y una granada , limón por ser la
 
 ### 2.1 Storyboard: 
 
+![BOCETO HISTORIA](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/ae9738f8-8e10-44c8-a51f-14485d492790)
+
+![BOCETO COMIC](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/fa79ae77-cf48-4903-ba31-4c00c05c5f81)
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![bocetos](https://github.com/JUSUSGAROZ/JUSUSGAROZ.github.io/assets/134589004/11cedd53-8357-49d5-b149-e83d44a74b52)
+
+
+
 
 
 
